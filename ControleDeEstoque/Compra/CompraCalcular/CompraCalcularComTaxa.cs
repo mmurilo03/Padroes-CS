@@ -1,6 +1,6 @@
 namespace ControleDeEstoque;
 
-public class CompraCalcularComTaxa
+public class CompraCalcularComTaxa : ICompraCalcular
 {
     public Compra Compra { get; }
     public double Taxa { get; set; }
