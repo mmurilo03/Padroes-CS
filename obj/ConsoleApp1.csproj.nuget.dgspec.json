@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Murilo\\Documents\\IF\\padroes\\Padroes-CS\\ConsoleApp1.csproj": {}
+    "C:\\Users\\Murilo\\Documents\\IF\\padroes\\Padroes-CS\\ConsoleApp1.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Murilo\\Documents\\IF\\padroes\\Padroes-CS\\ConsoleApp1.csproj": {
+    "C:\\Users\\Murilo\\Documents\\IF\\padroes\\Padroes-CS\\ConsoleApp1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Murilo\\Documents\\IF\\padroes\\Padroes-CS\\ConsoleApp1.csproj",
+        "projectUniqueName": "C:\\Users\\Murilo\\Documents\\IF\\padroes\\Padroes-CS\\ConsoleApp1.csproj",
         "projectName": "ConsoleApp1",
-        "projectPath": "c:\\Users\\Murilo\\Documents\\IF\\padroes\\Padroes-CS\\ConsoleApp1.csproj",
+        "projectPath": "C:\\Users\\Murilo\\Documents\\IF\\padroes\\Padroes-CS\\ConsoleApp1.csproj",
         "packagesPath": "C:\\Users\\Murilo\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Murilo\\Documents\\IF\\padroes\\Padroes-CS\\obj\\",
+        "outputPath": "C:\\Users\\Murilo\\Documents\\IF\\padroes\\Padroes-CS\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Murilo\\AppData\\Roaming\\NuGet\\NuGet.Config",
